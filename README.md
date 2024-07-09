@@ -1,4 +1,4 @@
-# Ey Up! 
+# "Hello World! Turning coffee into code and bugs into learning opportunities." 
 
 I'm Michelle, a Junior Software Developer based in Keighley, West Yorkshire. Driven by a lifelong love for technology, I've transitioned into software development with a mission to create meaningful and impactful solutions that solve real user problems. With a strong foundation in JavaScript, React, and SQL as well as UX/UI Design, I thrive on tackling challenges, collaborating in teams, and constantly learning new things.
 
