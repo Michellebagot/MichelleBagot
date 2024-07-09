@@ -35,7 +35,7 @@ I'm Michelle, a Junior Software Developer based in Keighley, West Yorkshire. Dri
 
 Successfully collaborated on a mobile app project, merging hiking tracking with engaging gamification features using Flutter and Firebase. Integrated map functionalities, GPS tracking, and robust user authentication systems to deliver a smooth and immersive user experience.
 
-### [Northcoders News Front-End](https://github.com/michellebagot/northcoders-news-front-end)
+### [Northcoders News Front-End](https://github.com/michellebagot/northcoder-news-front-end)
 [![Northcoders News Front-End](https://img.shields.io/badge/-React%20%7C%20Netlify-blue?style=for-the-badge)](https://github.com/michellebagot/northcoders-news-front-end)
 
 Developed a React.js single-page application (SPA) front-end for a news app replicating Reddit’s functionality. Implemented article display, voting, and commenting functionalities, ensuring smooth user interaction. Deployed the application to Netlify.
