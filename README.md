@@ -26,8 +26,6 @@ I'm Michelle, a Junior Software Developer based in Keighley, West Yorkshire. Dri
 
 ## 📈 GitHub Stats
 
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellebagot&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michellebagot&theme=radical)](https://git.io/streak-stats)
 
 ## 📝 Featured Projects
