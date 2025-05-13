@@ -2,7 +2,7 @@
 
 I'm Michelle, a Junior Software Developer based in Keighley, West Yorkshire. Driven by a lifelong love for technology, I've transitioned into software development with a mission to create meaningful and impactful solutions that solve real user problems. With a strong foundation in JavaScript, React, and SQL as well as UX/UI Design, I thrive on tackling challenges, collaborating in teams, and constantly learning new things.
 
-- 🔭 I’m currently working on: **TuneWave** and **Progressive Aim**
+- 🔭 I’m currently working on: A Personal Historical Research Project - and the website that goes along with it
 - 🌱 I’m currently developing skills in: **Typescript, User Authentication, UX Research**
 - 👯 I’m looking for: **Exciting Employment Opportunities**
 - 🌍 Based in: **Keighley, West Yorkshire**
